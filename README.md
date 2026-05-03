@@ -18,7 +18,7 @@ Este repositorio contiene un **prompt optimizado** que transforma cualquier mode
 
 👉 Haz clic aquí para descargar el archivo listo para usar:
 
-**[⬇️ Descargar prompt (spec-gym-training.md)]([./spec-gym-training.md](https://raw.githubusercontent.com/luisalejope/prompt-ai-coach/refs/heads/main/prompt/spec-gym-training.md))**
+**[⬇️ Descargar prompt (spec-gym-training.md)](https://raw.githubusercontent.com/luisalejope/prompt-ai-coach/refs/heads/main/prompt/spec-gym-training.md)**
 
 ---
 
